@@ -18,7 +18,7 @@ Beginner
 
 The following agent has the following states:
 - Setup
-- Attemp
+- Attempt
 - Clues
 
 Each state expects the following kinds of inputs and outputs:
